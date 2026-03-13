@@ -1,0 +1,25 @@
+{
+  "name": "todo_app_server",
+  "version": "1.0.0",
+  "description": "todo_app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sipu2005/todo_app_server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sipu2005/todo_app_server/issues"
+  },
+  "homepage": "https://github.com/Sipu2005/todo_app_server#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mysql2": "^3.19.1",
+    "nodemon": "^3.1.14",
+    "sequelize": "^6.37.8"
+  }
+}
